@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "colab-batch-runner",
+  "version": "0.1.0",
+  "description": "Run long unattended jobs on a Colab GPU/CPU session via the colab CLI without losing progress to disconnects",
+  "author": {
+    "name": "yoon.lee",
+    "email": "pyhu26@gmail.com"
+  },
+  "skills": [
+    "./"
+  ]
+}
